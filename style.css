@@ -1,7 +1,14 @@
-#start {
+div {
+    border: 3px solid black;
+    padding: 5px; 
+    margin: 10px;
+}
+
+
+#start-button {
     background-color: green;
   }
   
-  #stop {
+  #stop-button {
     background-color: red;
   }
